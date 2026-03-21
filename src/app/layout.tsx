@@ -25,6 +25,18 @@ export const metadata: Metadata = {
     "IPL",
     "World Cup",
   ],
+  openGraph: {
+    title: "CricBot — Your AI Cricket Expert",
+    description: "Ask CricBot anything about cricket — rules, players, tournaments, records, and iconic moments.",
+    type: "website",
+  },
+};
+
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  viewportFit: "cover" as const,
 };
 
 export default function RootLayout({
@@ -37,7 +49,7 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full`}
     >
-      <body className="h-full antialiased">{children}</body>
+      <body className="h-full antialiased" style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}>{children}</body>
     </html>
   );
 }
