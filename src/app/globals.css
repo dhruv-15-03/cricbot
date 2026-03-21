@@ -1,26 +1,160 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --stadium-green: #1a472a;
+  --stadium-green-light: #2d5a3f;
+  --stadium-green-dark: #0f2d1a;
+  --pitch-cream: #f5f0e1;
+  --pitch-cream-dark: #e8e0c8;
+  --cricket-red: #c41e3a;
+  --cricket-red-light: #e8314f;
+  --foreground: #1a1a2e;
+  --foreground-muted: #64748b;
 }
 
 @theme inline {
-  --color-background: var(--background);
+  --color-stadium-green: var(--stadium-green);
+  --color-stadium-green-light: var(--stadium-green-light);
+  --color-stadium-green-dark: var(--stadium-green-dark);
+  --color-pitch-cream: var(--pitch-cream);
+  --color-pitch-cream-dark: var(--pitch-cream-dark);
+  --color-cricket-red: var(--cricket-red);
+  --color-cricket-red-light: var(--cricket-red-light);
   --color-foreground: var(--foreground);
+  --color-foreground-muted: var(--foreground-muted);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+body {
+  background: var(--pitch-cream);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #2d5a3f80;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #2d5a3f;
+}
+
+/* Message animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@keyframes bounce-dot {
+  0%, 80%, 100% {
+    transform: scale(0);
+  }
+  40% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.9);
+    opacity: 0.7;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.9);
+    opacity: 0.7;
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.3s ease-out forwards;
+}
+
+.animate-bounce-dot {
+  animation: bounce-dot 1.4s infinite ease-in-out both;
+}
+
+.animate-pulse-ring {
+  animation: pulse-ring 2s ease-in-out infinite;
+}
+
+/* Pitch pattern background */
+.pitch-pattern {
+  background-image: 
+    linear-gradient(90deg, transparent 49.5%, #2d5a3f08 49.5%, #2d5a3f08 50.5%, transparent 50.5%),
+    linear-gradient(0deg, transparent 49.5%, #2d5a3f05 49.5%, #2d5a3f05 50.5%, transparent 50.5%);
+  background-size: 60px 60px;
+}
+
+/* Markdown styles for bot messages */
+.bot-message h1, .bot-message h2, .bot-message h3 {
+  font-weight: 700;
+  margin-top: 0.75em;
+  margin-bottom: 0.25em;
+}
+.bot-message h1 { font-size: 1.25em; }
+.bot-message h2 { font-size: 1.125em; }
+.bot-message h3 { font-size: 1em; }
+
+.bot-message ul, .bot-message ol {
+  padding-left: 1.25em;
+  margin: 0.5em 0;
+}
+.bot-message ul { list-style-type: disc; }
+.bot-message ol { list-style-type: decimal; }
+.bot-message li { margin: 0.25em 0; }
+
+.bot-message p {
+  margin: 0.5em 0;
+}
+.bot-message p:first-child {
+  margin-top: 0;
+}
+.bot-message p:last-child {
+  margin-bottom: 0;
+}
+
+.bot-message strong {
+  font-weight: 600;
+  color: #1a472a;
+}
+
+.bot-message code {
+  background: #f1f5f9;
+  padding: 0.125em 0.375em;
+  border-radius: 4px;
+  font-size: 0.875em;
+}
+
+.bot-message table {
+  border-collapse: collapse;
+  margin: 0.5em 0;
+  width: 100%;
+  font-size: 0.875em;
+}
+.bot-message th, .bot-message td {
+  border: 1px solid #e2e8f0;
+  padding: 0.375em 0.75em;
+  text-align: left;
+}
+.bot-message th {
+  background: #f1f5f9;
+  font-weight: 600;
 }

@@ -1,0 +1,494 @@
+[
+  {
+    "id": "rules-001",
+    "category": "rules",
+    "title": "Basic Rules of Cricket",
+    "content": "Cricket is a bat-and-ball sport played between two teams of 11 players each on a circular or oval-shaped field. At the center is a rectangular 22-yard (20.12m) pitch with a set of three wooden stumps (wickets) at each end. The batting team tries to score runs by hitting the ball and running between the wickets, while the bowling/fielding team tries to dismiss batsmen and restrict runs. A run is scored when a batsman hits the ball and both batsmen successfully run to the opposite end of the pitch. If the ball reaches the boundary along the ground, 4 runs are awarded; if it clears the boundary on the full, 6 runs are awarded. An innings ends when 10 batsmen are dismissed (all out) or the allotted overs are completed."
+  },
+  {
+    "id": "rules-002",
+    "category": "rules",
+    "title": "Test Cricket Format",
+    "content": "Test cricket is the longest format of the game, played over a maximum of five days with each team batting twice. There is no limit on overs per innings — a team bats until all 10 wickets fall or they declare their innings closed. A minimum of 90 overs must be bowled per day. The team with the most runs after both innings wins. If neither team is bowled out twice by the end of day 5, the match is a draw. Test cricket is considered the pinnacle of the sport, testing endurance, technique, and mental strength. Only 12 nations have been granted Test status by the ICC. The first Test match was played between Australia and England in Melbourne in 1877."
+  },
+  {
+    "id": "rules-003",
+    "category": "rules",
+    "title": "One Day International (ODI) Format",
+    "content": "One Day Internationals (ODIs) are limited-overs matches where each team faces a maximum of 50 overs. ODIs were introduced in 1971 and brought a faster pace to cricket. Key rules include: each bowler can bowl a maximum of 10 overs, there are fielding restrictions (powerplay overs) where only a limited number of fielders can be outside the 30-yard circle, and the team batting second wins by chasing down the target. Powerplay rules: Overs 1-10 (mandatory powerplay) — max 2 fielders outside the circle; Overs 11-40 — max 4 fielders outside; Overs 41-50 — max 5 fielders outside. If rain interrupts, the DLS (Duckworth-Lewis-Stern) method adjusts targets."
+  },
+  {
+    "id": "rules-004",
+    "category": "rules",
+    "title": "T20 Cricket Format",
+    "content": "Twenty20 (T20) is the shortest international format, with each team facing 20 overs. Matches typically last about 3 hours, making it the most spectator-friendly format. Key rules: each bowler can bowl a maximum of 4 overs. Powerplay: Overs 1-6 — max 2 fielders outside the circle. A free hit is awarded to the batsman after a no-ball, where the batsman cannot be dismissed except by run-out. T20 cricket revolutionized the sport with the introduction of franchise leagues like the IPL, BBL, CPL, and PSL. The first T20 International was played between Australia and New Zealand in 2005. The format encourages aggressive batting, innovative shots, and strategic bowling changes."
+  },
+  {
+    "id": "rules-005",
+    "category": "rules",
+    "title": "Dismissal Types in Cricket",
+    "content": "There are 11 ways a batsman can be dismissed: 1) Bowled — the ball hits the stumps directly; 2) Caught — a fielder catches the ball before it bounces after the batsman hits it; 3) LBW (Leg Before Wicket) — the ball would have hit the stumps but is blocked by the batsman's body; 4) Run Out — a fielder breaks the stumps with the ball while the batsman is out of the crease; 5) Stumped — the wicketkeeper breaks the stumps when the batsman steps out of the crease; 6) Hit Wicket — the batsman accidentally hits their own stumps; 7) Handled the Ball — touching the ball with hands without permission; 8) Hit the Ball Twice — deliberately hitting the ball a second time; 9) Obstructing the Field — deliberately blocking a fielder; 10) Timed Out — not arriving at the crease within the allowed time; 11) Retired Out — voluntarily leaving and not returning."
+  },
+  {
+    "id": "rules-006",
+    "category": "rules",
+    "title": "DLS Method (Duckworth-Lewis-Stern)",
+    "content": "The DLS (Duckworth-Lewis-Stern) method is a mathematical formula used to calculate revised target scores in rain-affected limited-overs cricket matches. Developed by statisticians Frank Duckworth, Tony Lewis, and later refined by Steven Stern, it considers two key resources available to a batting team: overs remaining and wickets in hand. When rain interrupts a match, the team batting second receives a revised target based on the resources available to both teams. The method replaced the earlier average run rate and most productive overs methods, which were deemed unfair. The DLS method has been the standard in international cricket since 2014. It can produce results where the chasing team's target is adjusted upward (if they had more resources) or downward (if they had fewer resources compared to the first team)."
+  },
+  {
+    "id": "rules-007",
+    "category": "rules",
+    "title": "Decision Review System (DRS)",
+    "content": "The Decision Review System (DRS) is a technology-based system used in cricket to review on-field umpire decisions. Each team is allowed a limited number of unsuccessful reviews per innings (typically 2 in Tests, 1 in ODIs/T20Is). Technologies used include: Ball Tracking (Hawk-Eye) — predicts the path of the ball for LBW decisions; UltraEdge/Snickometer — detects small edges using audio and visual technology; Hot Spot — infrared imaging to detect ball contact with bat or pad. The 'umpire's call' rule means that if the ball is shown to be hitting the stumps but within a margin of error, the original on-field decision stands. DRS was first used in a Test match between India and Sri Lanka in 2008. It has significantly reduced umpiring errors and added a strategic element to the game."
+  },
+  {
+    "id": "rules-008",
+    "category": "rules",
+    "title": "Fielding Positions in Cricket",
+    "content": "Cricket has numerous fielding positions, each with a specific name. Key positions include: Wicketkeeper — stands behind the stumps; Slip (1st, 2nd, 3rd) — behind the batsman on the off side for catching edges; Gully — wider than slip; Point — square on the off side; Cover — between point and mid-off; Mid-off — straight on the off side; Mid-on — straight on the leg side; Mid-wicket — between mid-on and square leg; Square Leg — square on the leg side; Fine Leg — behind square on the leg side; Third Man — behind the wicketkeeper on the off side; Long-on, Long-off — near the boundary straight; Deep Mid-wicket, Deep Square Leg — near the boundary on the leg side. Captains set field placements strategically based on the batsman's strengths, bowler's style, and match situation."
+  },
+  {
+    "id": "rules-009",
+    "category": "rules",
+    "title": "No Ball and Wide Ball Rules",
+    "content": "A no-ball is called when the bowler oversteps the popping crease (front-foot no-ball), bowls a full toss above waist height (beamer), or has an illegal bowling action. One extra run is awarded, the ball doesn't count as a legal delivery, and in limited-overs cricket, a free hit is given on the next delivery. A wide ball is called when the ball is too far from the batsman to play a normal cricket shot. In Test cricket, the wide rule is more lenient; in limited-overs cricket, it's stricter, including balls going down the leg side. One extra run is awarded for a wide, and the ball must be re-bowled. In T20 cricket, bouncers are limited to one per over, and any additional bouncer is called a no-ball."
+  },
+  {
+    "id": "rules-010",
+    "category": "rules",
+    "title": "Cricket Pitch and Ground Dimensions",
+    "content": "The cricket pitch is a rectangular area 22 yards (20.12 meters) long and 10 feet (3.05 meters) wide at the center of the field. Three stumps (28 inches tall, 9 inches combined width) are placed at each end with two bails on top. The popping crease is 4 feet in front of the stumps — a batsman must be behind this line to be 'in the crease.' The return creases are on either side. The cricket ground itself has no fixed dimensions but typically has a boundary ranging from 65-90 meters from the center of the pitch. The playing field is usually oval or circular. International grounds like Lord's (London), MCG (Melbourne), Eden Gardens (Kolkata), and Wankhede Stadium (Mumbai) are among the most famous in the world."
+  },
+  {
+    "id": "players-001",
+    "category": "players",
+    "title": "Sachin Tendulkar - The Master Blaster",
+    "content": "Sachin Ramesh Tendulkar (born April 24, 1973) is widely regarded as the greatest batsman in cricket history. He represented India from 1989 to 2013 across all formats. Key records: Most international runs ever — 34,357 (15,921 in Tests, 18,426 in ODIs); Most international centuries — 100 (51 in Tests, 49 in ODIs); First player to score a double century in ODIs (200* vs South Africa in 2010); Most Test matches played — 200; Most ODI appearances — 463; Most runs in World Cup history — 2,278. He made his debut at age 16 against Pakistan and became the backbone of Indian cricket for 24 years. He was awarded the Bharat Ratna, India's highest civilian honor, in 2014, becoming the youngest recipient. His jersey number 10 was retired by the BCCI."
+  },
+  {
+    "id": "players-002",
+    "category": "players",
+    "title": "Virat Kohli - The Chase Master",
+    "content": "Virat Kohli (born November 5, 1988) is one of the greatest batsmen of the modern era. He captained India across all formats and is known for his aggressive batting and exceptional consistency. Key stats: Over 27,000 international runs; 80+ international centuries (second only to Tendulkar); Highest ODI run-chaser with 46 ODI centuries (most by any player); Average of 50+ in all three formats during his peak; Led India to the 2023 ODI World Cup final; Won the 2024 T20 World Cup. Known as the 'Chase Master' for his extraordinary record batting second in ODIs. He holds the record for most centuries in successful run chases. Kohli transformed Indian cricket's fitness culture, emphasizing athleticism and professional standards."
+  },
+  {
+    "id": "players-003",
+    "category": "players",
+    "title": "Sir Don Bradman - The Greatest Test Batsman",
+    "content": "Sir Donald George Bradman (1908-2001) is statistically the greatest Test batsman ever, with an astonishing batting average of 99.94 — far ahead of any other player in history. He needed just 4 runs in his final innings to average 100 but was bowled for a duck (0). Playing for Australia from 1928 to 1948, he scored 6,996 Test runs with 29 centuries in just 52 Tests. His average is so far above the next best (around 60) that statisticians consider it one of the greatest statistical outliers in any sport. Key feats: Scored 334 against England in 1930 (then a record); scored 309 runs in a single day; averaged 101.39 in Ashes matches. The infamous 'Bodyline' series of 1932-33 was specifically designed by England to counter Bradman's dominance."
+  },
+  {
+    "id": "players-004",
+    "category": "players",
+    "title": "Shane Warne - The King of Spin",
+    "content": "Shane Keith Warne (1969-2022) was an Australian leg-spin bowler widely considered the greatest spin bowler in cricket history. He revolutionized leg-spin bowling and made it a potent attacking weapon in Tests. Key stats: 708 Test wickets (second-highest at retirement); 293 ODI wickets; bowled the 'Ball of the Century' to Mike Gatting in 1993 Ashes — his first ball in Ashes cricket that pitched outside leg stump and hit the top of off stump. Warne was a master of deception with his leg-break, googly, flipper, and slider. He took 195 Ashes wickets across 36 Tests. Named one of Wisden's Five Cricketers of the Century. He was also a capable lower-order batsman and brilliant slip fielder. His rivalry with Tendulkar is one of the greatest in cricket history."
+  },
+  {
+    "id": "players-005",
+    "category": "players",
+    "title": "MS Dhoni - Captain Cool",
+    "content": "Mahendra Singh Dhoni (born July 7, 1981) is India's most successful captain, known for his calm demeanor, lightning-fast wicketkeeping, and helicopter shot. Key achievements: Only captain to win all three major ICC trophies — 2007 T20 World Cup, 2011 ODI World Cup, and 2013 Champions Trophy; Led India to the No.1 Test ranking; IPL: Most successful captain with 5 titles for Chennai Super Kings (2010, 2011, 2018, 2021, 2023). Stats: 10,773 ODI runs at avg 50.57; 4,876 Test runs; 1,617 T20I runs; 829 international dismissals as wicketkeeper. Known for finishing matches — 'Dhoni finishes off in style' (Ravi Shastri's iconic commentary during the 2011 World Cup final six). He retired from international cricket on August 15, 2020."
+  },
+  {
+    "id": "players-006",
+    "category": "players",
+    "title": "Sir Vivian Richards - The Master Blaster of West Indies",
+    "content": "Sir Isaac Vivian Alexander Richards (born March 7, 1952) is one of the most destructive batsmen in cricket history. Playing for the West Indies from 1974 to 1991, he dominated bowlers with his aggressive, fearless style — notably refusing to wear a helmet throughout his career. Key stats: 8,540 Test runs at an average of 50.23 with 24 centuries; 6,721 ODI runs at 47.00 with 11 centuries. His fastest Test century came off just 56 balls against England in 1986, a record that stood for 28 years. Richards was a key member of the dominant West Indies team that went unbeaten in Test series for 15 years (1980-1995). He was also captain of the West Indies and led them to the 1979 World Cup victory."
+  },
+  {
+    "id": "players-007",
+    "category": "players",
+    "title": "James Anderson - England's Greatest Fast Bowler",
+    "content": "James Michael Anderson (born July 30, 1982) is England's all-time leading wicket-taker and one of the greatest fast bowlers in Test history. A swing bowling specialist who could move the ball both ways at pace, Anderson played for England from 2003 to 2024. Key stats: 704 Test wickets — the most by any fast bowler in Test history and third-highest overall; 269 ODI wickets. He took his 700th Test wicket in 2024 against the West Indies. Anderson was still playing Test cricket at age 41, making him one of the oldest pace bowlers in modern cricket. He was particularly devastating in English conditions where swing bowling thrives. His new-ball partnership with Stuart Broad (both with 600+ Test wickets) is the most prolific in Test history."
+  },
+  {
+    "id": "players-008",
+    "category": "players",
+    "title": "Jasprit Bumrah - India's Pace Spearhead",
+    "content": "Jasprit Jasbirsingh Bumrah (born December 6, 1993) is one of the most feared fast bowlers in modern cricket, known for his unorthodox sling-arm action, deadly yorkers, and ability to bowl in any phase of the game. Key stats: 180+ Test wickets at an average under 22; 140+ ODI wickets; 80+ T20I wickets. He holds the record for the best bowling figures by an Indian in Tests in several countries. Bumrah's unique front-foot delivery stride makes him nearly impossible to pick for batsmen. In 2025, he became India's Test captain. He's been ranked No.1 in ICC Test bowler rankings multiple times. Known for his death-overs bowling in T20s, where he regularly bowls wide yorkers and slower-ball bouncers that are extremely difficult to hit."
+  },
+  {
+    "id": "players-009",
+    "category": "players",
+    "title": "AB de Villiers - Mr. 360",
+    "content": "Abraham Benjamin de Villiers (born February 17, 1984) is a South African cricketer celebrated as one of the most innovative and versatile batsmen ever. Nicknamed 'Mr. 360' for his ability to hit the ball to every part of the ground, he held the record for the fastest ODI century — off just 31 balls against the West Indies in 2015. Career stats: 8,765 Test runs at 50.66 (22 centuries); 9,577 ODI runs at 53.50 (25 centuries); 1,672 T20I runs. He was equally brilliant as a wicketkeeper. De Villiers invented shots that had never been seen before, including scoops over the keeper, reverse sweeps to fast bowlers, and lofted drives from outside off stump over midwicket. He retired from international cricket in 2018 but continued playing T20 leagues."
+  },
+  {
+    "id": "players-010",
+    "category": "players",
+    "title": "Muttiah Muralitharan - Highest Wicket-Taker",
+    "content": "Muttiah Muralitharan (born April 17, 1972) from Sri Lanka holds the record for the most wickets in international cricket history. An off-spin bowler with a unique action due to a congenital condition that prevented him from fully straightening his arm, Muralitharan was virtually unplayable on turning wickets. Record stats: 800 Test wickets — the all-time record; 534 ODI wickets — also the all-time record; Total of 1,347 international wickets. He took 10-wicket hauls in a Test match 22 times. His 'doosra' — a delivery that turns away from the right-hander despite appearing to be an off-break — was revolutionary and later became a standard delivery for off-spinners worldwide. He was a key figure in Sri Lanka's rise as a cricket power."
+  },
+  {
+    "id": "players-011",
+    "category": "players",
+    "title": "Brian Lara - The Prince of Trinidad",
+    "content": "Brian Charles Lara (born May 2, 1969) from the West Indies holds two of cricket's most remarkable batting records that may never be broken. He scored the highest individual Test innings — 400 not out against England at Antigua in 2004. He also scored 501 not out for Warwickshire in first-class cricket, the highest score in any form of professional cricket. Career stats: 11,953 Test runs at 52.88 (34 centuries); 10,405 ODI runs at 40.48 (19 centuries). Lara was known for his elegant left-handed batting, exceptional footwork, and ability to play long innings. His 153 not out against Australia in Barbados in 1999 is considered one of the greatest Test innings of all time, as he single-handedly won the match."
+  },
+  {
+    "id": "players-012",
+    "category": "players",
+    "title": "Wasim Akram - Sultan of Swing",
+    "content": "Wasim Akram (born June 3, 1966) is a Pakistani cricketer widely regarded as the greatest left-arm fast bowler in cricket history. Known as the 'Sultan of Swing' for his ability to reverse-swing the ball at express pace, he was a nightmare for batsmen worldwide. Key stats: 414 Test wickets at 23.62; 502 ODI wickets (first to reach 500); 2,898 Test runs including 3 centuries. Akram was instrumental in Pakistan's 1992 World Cup victory, taking 3 wickets in the final. His ability to swing the ball both conventionally and in reverse, combined with a devastating yorker, made him nearly unplayable. He and Waqar Younis formed one of cricket's most feared fast-bowling partnerships."
+  },
+  {
+    "id": "tournaments-001",
+    "category": "tournaments",
+    "title": "ICC Cricket World Cup History",
+    "content": "The ICC Cricket World Cup is the premier ODI tournament, held every four years since 1975. Winners: 1975 — West Indies (beat Australia); 1979 — West Indies (beat England); 1983 — India (beat West Indies at Lord's, a massive upset); 1987 — Australia (beat England); 1992 — Pakistan (beat England, Imran Khan's famous campaign); 1996 — Sri Lanka (Jayasuriya and Kaluwitharana revolutionized batting in the powerplay); 1999 — Australia (beat Pakistan); 2003 — Australia (unbeaten, dominated); 2007 — Australia (three-peat, unprecedented); 2011 — India (Dhoni's famous six); 2015 — Australia (record 5th title); 2019 — England (Super Over thriller vs NZ at Lord's); 2023 — Australia (beat India in the final at Ahmedabad). Australia leads with 6 titles, followed by India and West Indies with 2 each."
+  },
+  {
+    "id": "tournaments-002",
+    "category": "tournaments",
+    "title": "ICC T20 World Cup History",
+    "content": "The ICC T20 World Cup has been held since 2007. Winners: 2007 — India (beat Pakistan in the final, Dhoni's young team); 2009 — Pakistan (beat Sri Lanka); 2010 — England (beat Australia); 2012 — West Indies (Marlon Samuels starred); 2014 — Sri Lanka (beat India); 2016 — West Indies (Carlos Brathwaite's 4 sixes in the final over against England); 2021 — Australia (beat NZ, first T20 World Cup title); 2022 — England (beat Pakistan); 2024 — India (Virat Kohli's last T20I, India ended trophy drought). The T20 World Cup showcases the explosive nature of cricket's shortest format with associate nations often causing upsets. It helped globalize cricket to new markets."
+  },
+  {
+    "id": "tournaments-003",
+    "category": "tournaments",
+    "title": "Indian Premier League (IPL) Overview",
+    "content": "The Indian Premier League (IPL) is the world's richest and most popular T20 franchise cricket league, founded by the BCCI in 2008. It features city-based franchises that auction players from around the world. Key facts: Held annually in April-May; 10 teams compete in a round-robin followed by playoffs; Each match is a T20 game. Most successful teams: Chennai Super Kings (5 titles under MS Dhoni), Mumbai Indians (5 titles under Rohit Sharma), Kolkata Knight Riders (3 titles). The IPL has a massive media rights deal worth billions of dollars. It has transformed cricket economics, giving players from associate nations a global platform and introducing innovations like strategic timeouts, impact players, and LED stumps. The IPL currently has a salary cap and uses a mega auction every few years."
+  },
+  {
+    "id": "tournaments-004",
+    "category": "tournaments",
+    "title": "The Ashes - Cricket's Greatest Rivalry",
+    "content": "The Ashes is a Test cricket series played between England and Australia, one of the oldest and most fiercely contested rivalries in all of sport. It has been played since 1882 when Australia beat England at The Oval, and a mock obituary for English cricket stated the 'body will be cremated and the ashes taken to Australia.' The series typically consists of 5 Test matches and alternates between England and Australia. The tiny urn containing the ashes of a burned bail is the symbolic trophy, though the actual urn never leaves the MCC Museum at Lord's. Key moments: Don Bradman's dominance in the 1930s-40s; the Bodyline series of 1932-33; Botham's Ashes in 1981; the 2005 Ashes (considered the greatest series ever); Steve Smith's extraordinary 2019 Ashes performance."
+  },
+  {
+    "id": "tournaments-005",
+    "category": "tournaments",
+    "title": "ICC Champions Trophy",
+    "content": "The ICC Champions Trophy is a limited-overs cricket tournament featuring the top 8 ranked ODI teams. Originally called the ICC KnockOut Trophy (1998), it was renamed in 2002. Winners: 1998 — South Africa; 2000 — New Zealand; 2002 — India/Sri Lanka (shared); 2004 — West Indies; 2006 — Australia; 2009 — Australia; 2013 — India (beat England in the final); 2017 — Pakistan (stunned India in the final at The Oval). The tournament was revived in 2025 after an 8-year gap and hosted in Pakistan. It is considered a 'mini World Cup' and has produced some thrilling matches, including Pakistan's remarkable 2017 campaign where they went from losing to India in the group stage to beating them comprehensively in the final."
+  },
+  {
+    "id": "tournaments-006",
+    "category": "tournaments",
+    "title": "World Test Championship (WTC)",
+    "content": "The ICC World Test Championship (WTC) was introduced in 2019 to add context to bilateral Test series by creating a league-style competition that culminates in a final. Teams earn points from each Test series they play over a two-year cycle. The top two teams at the end of the cycle qualify for the WTC Final. Finals: 2021 — New Zealand beat India at Southampton (inaugural champions); 2023 — Australia beat India at The Oval. The WTC has been praised for making every Test series meaningful and encouraging teams to play positive cricket rather than settling for draws. Each cycle runs approximately two years, with the Championship mace awarded to the winners."
+  },
+  {
+    "id": "tournaments-007",
+    "category": "tournaments",
+    "title": "Other Major T20 Leagues",
+    "content": "Beyond the IPL, several major T20 franchise leagues have emerged globally. Big Bash League (BBL) — Australia's T20 league, played during the Australian summer (December-February), featuring 8 city-based teams. Caribbean Premier League (CPL) — West Indies' franchise league held in August-September, known for its festive atmosphere. Pakistan Super League (PSL) — Pakistan's premier T20 league, established in 2016, growing in stature with international stars. SA20 — South Africa's newest T20 league launched in 2023, featuring 6 franchise teams with significant IPL franchise investment. The Hundred — England's innovative format with 100 balls per innings, played in July-August. Bangladesh Premier League (BPL), Lanka Premier League (LPL), and International League T20 (ILT20 in UAE) are other notable leagues."
+  },
+  {
+    "id": "terms-001",
+    "category": "terms",
+    "title": "Googly (Wrong'un)",
+    "content": "A googly (also called a wrong'un or bosie) is a deceptive delivery bowled by a leg-spin bowler. While a standard leg-break turns from the leg side to the off side for a right-handed batsman, a googly turns the opposite way — from off to leg — despite being bowled with what appears to be a leg-spin action. The bowler achieves this by rotating the wrist so the back of the hand faces the batsman at the point of release. The googly was invented by Bernard Bosanquet around 1900. It remains one of the most difficult deliveries to bowl and to pick from the hand. Shane Warne, Anil Kumble, and Rashid Khan are among the bowlers famous for their effective googly."
+  },
+  {
+    "id": "terms-002",
+    "category": "terms",
+    "title": "Yorker",
+    "content": "A yorker is a delivery that pitches right at or just inside the batsman's crease, at the base of the stumps, making it extremely difficult to hit. It is one of the most effective death-overs deliveries in limited-overs cricket. When executed perfectly, the ball slides under the bat and hits the stumps or the batsman's toes. A 'toe-crushing yorker' is one aimed at the batsman's feet. Jasprit Bumrah, Wasim Akram, Lasith Malinga, and Waqar Younis are considered masters of the yorker. The 'wide yorker' is bowled outside off stump, making it impossible for the batsman to get under the ball for a big hit. A 'slow yorker' uses change of pace to deceive the batsman."
+  },
+  {
+    "id": "terms-003",
+    "category": "terms",
+    "title": "LBW (Leg Before Wicket)",
+    "content": "LBW stands for Leg Before Wicket, one of the most complex dismissal methods in cricket. A batsman is out LBW when the ball would have gone on to hit the stumps but is instead intercepted by any part of the batsman's body (usually the pad/leg). Key conditions for an LBW decision: 1) The ball must pitch in line with the stumps or outside off stump (not outside leg stump); 2) The ball must hit the batsman in line with the stumps, UNLESS the batsman is not offering a shot (then it can be outside off); 3) The ball must be going on to hit the stumps (ball tracking technology helps determine this). DRS and Hawk-Eye technology have made LBW decisions more accurate. The 'umpire's call' zone means if less than 50% of the ball is hitting the stumps, the original on-field decision stands."
+  },
+  {
+    "id": "terms-004",
+    "category": "terms",
+    "title": "Powerplay in Limited-Overs Cricket",
+    "content": "The powerplay is a set of overs in limited-overs cricket where fielding restrictions are in place, limiting the number of fielders allowed outside the 30-yard circle. In ODIs: The mandatory powerplay is overs 1-10 with a maximum of 2 fielders outside the circle. From overs 11-40, a maximum of 4 fielders can be outside. From overs 41-50, a maximum of 5 fielders can be outside. In T20Is: The powerplay is overs 1-6 with a maximum of 2 fielders outside the circle. After the powerplay, a maximum of 5 fielders can be outside. The powerplay encourages aggressive batting early in the innings and often sets the tone for the rest of the innings. In modern cricket, teams aim for 50-60 runs in the T20 powerplay and 60-80 runs in the ODI powerplay."
+  },
+  {
+    "id": "terms-005",
+    "category": "terms",
+    "title": "Reverse Swing",
+    "content": "Reverse swing is a phenomenon where an old cricket ball (typically after 40-50 overs) swings in the opposite direction to conventional swing. While a new ball swings towards the shiny side, a reverse-swinging ball moves towards the rough side. This occurs when one side of the ball becomes significantly rougher than the other due to wear and tear. The rough side creates more turbulence, causing the ball to swing in the opposite direction. Pakistani bowlers Wasim Akram, Waqar Younis, and Sarfaraz Nawaz are credited with mastering and popularizing reverse swing. It is particularly effective in subcontinental conditions where abrasive pitches rough up the ball quickly. Reverse swing has been the subject of controversy, with accusations of ball tampering."
+  },
+  {
+    "id": "terms-006",
+    "category": "terms",
+    "title": "Doosra",
+    "content": "The doosra (meaning 'the other one' in Urdu/Hindi) is an off-spin delivery that turns away from the right-handed batsman instead of turning in, as a conventional off-break would. It was pioneered by Pakistani off-spinner Saqlain Mushtaq in the late 1990s. The doosra is bowled with a similar action to the off-break but with a different wrist position. It has been controversial because many bowlers have been called for illegal bowling actions when attempting to bowl it, as the delivery often requires more arm straightening than the ICC's allowed 15-degree limit. Muttiah Muralitharan and Saeed Ajmal were notable exponents. The ICC has used biomechanical testing to ensure bowlers' actions are legal."
+  },
+  {
+    "id": "terms-007",
+    "category": "terms",
+    "title": "Duck and Golden Duck",
+    "content": "A 'duck' in cricket refers to a batsman being dismissed without scoring any runs (0). The term originates from the shape of the number 0 resembling a duck's egg. Variations include: Golden Duck — dismissed on the first ball faced; Silver Duck — dismissed on the second ball; Diamond Duck — dismissed without facing a ball (e.g., run out at the non-striker's end); Pair — scoring a duck in both innings of a Test match; King Pair — scoring golden ducks in both innings. Famous ducks include Don Bradman's final innings duck (needing 4 for an average of 100), and Sachin Tendulkar's golden duck in his final Test innings."
+  },
+  {
+    "id": "terms-008",
+    "category": "terms",
+    "title": "Century, Half-Century, and Milestones",
+    "content": "A century is a score of 100 or more runs by a batsman in a single innings, considered one of cricket's most prestigious individual achievements. A half-century (fifty) is a score between 50 and 99. A double century is 200+, a triple century is 300+. Quick-fire scoring has its own milestones: the fastest Test century was scored by Ben Stokes off 79 balls (for England), and in ODIs, AB de Villiers holds the record at 31 balls. The fastest T20I century was scored in 35 balls. Scoring a century on debut is considered a special achievement. Converting half-centuries into centuries is a mark of a great batsman — Steve Smith and Joe Root are known for their high conversion rates."
+  },
+  {
+    "id": "terms-009",
+    "category": "terms",
+    "title": "Sledging in Cricket",
+    "content": "Sledging is the practice of verbally taunting or making comments to an opposing player to disturb their concentration. While not officially sanctioned, it has been a part of cricket culture, particularly in Australian cricket. Famous examples include: Andrew Symonds and the 'Monkeygate' controversy involving Harbhajan Singh (2008); Merv Hughes' colorful exchanges with batsmen; James Anderson and Mitchell Johnson's verbal battles; Tim Paine and Rishabh Pant's entertaining banter during the 2018-19 Border-Gavaskar series. The ICC's code of conduct has rules against offensive language and behavior, with penalties ranging from fines to match bans. The 'Spirit of Cricket' preamble in the Laws of Cricket encourages respect between opponents."
+  },
+  {
+    "id": "terms-010",
+    "category": "terms",
+    "title": "Switch Hit and Innovative Shots",
+    "content": "Modern cricket has seen the invention of several innovative shots. The Switch Hit — popularized by Kevin Pietersen, where the batsman changes from right to left-handed (or vice versa) stance mid-delivery, effectively playing as the opposite-handed batsman. The Dilscoop/Paddle Scoop — invented by Tillakaratne Dilshan, flicking a good-length ball over the wicketkeeper's head for runs. The Helicopter Shot — MS Dhoni's trademark, a wristy flick of full-length deliveries over the leg side, deriving power from the wrists. The Reverse Sweep — playing a sweep shot to the off side instead of the traditional leg side. The Marillier Shot — a ramp or upper-cut scoop over short fine leg, used by Zimbabwe's Doug Marillier against India."
+  },
+  {
+    "id": "terms-011",
+    "category": "terms",
+    "title": "Bouncer and Short-Pitch Bowling Rules",
+    "content": "A bouncer is a short-pitched delivery that rises towards the batsman's chest, shoulder, or head. It is a legitimate intimidation tactic used by fast bowlers. Rules vary by format: In Test cricket, there is no limit on bouncers per over, but persistent short-pitch bowling can lead to warnings from the umpire. In ODIs, a maximum of 2 bouncers per over are allowed. In T20Is, only 1 bouncer per over is permitted. If a bouncer passes over the batsman's head while standing upright, it's called a wide. A bouncer that hits the batsman's helmet was made a dead ball in recent rule changes for safety. Helmets became mandatory in professional cricket following the tragic death of Phillip Hughes in 2014 after being hit by a bouncer."
+  },
+  {
+    "id": "moments-001",
+    "category": "moments",
+    "title": "India's 1983 World Cup Win - Kapil's Devils",
+    "content": "India's victory in the 1983 Cricket World Cup at Lord's is one of the greatest upsets in cricket history. Led by Kapil Dev, India — rank outsiders given odds of 66-1 — defeated the mighty West Indies who had won the previous two World Cups. In the final, India was bowled out for just 183, a seemingly below-par total. However, inspired bowling and fielding, particularly Kapil Dev's legendary catch of Viv Richards, restricted the West Indies to just 140 all out. Mohinder Amarnath won the Man of the Match. This victory is widely credited with sparking the cricket revolution in India, transforming it from a hockey-loving nation to a cricket-crazy one. It laid the foundation for India becoming the commercial powerhouse of world cricket."
+  },
+  {
+    "id": "moments-002",
+    "category": "moments",
+    "title": "2011 World Cup Final - Dhoni Finishes in Style",
+    "content": "The 2011 ICC Cricket World Cup final between India and Sri Lanka at Wankhede Stadium, Mumbai, is one of the most iconic matches in cricket history. India won by 6 wickets, with MS Dhoni hitting a massive six over long-on to seal the victory — the shot immortalized by Ravi Shastri's commentary: 'Dhoni finishes off in style, a magnificent strike into the crowd! India lift the World Cup after 28 years!' Dhoni promoted himself to No.5 ahead of in-form Yuvraj Singh, scored 91 not out off 79 balls, and was named Man of the Match. Gautam Gambhir's crucial 97 was equally important, though often overlooked. It was Sachin Tendulkar's sixth and final World Cup, and he was carried on his teammates' shoulders in an emotional celebration."
+  },
+  {
+    "id": "moments-003",
+    "category": "moments",
+    "title": "2019 World Cup Final - The Super Over",
+    "content": "The 2019 ICC Cricket World Cup final between England and New Zealand at Lord's is considered the greatest ODI match ever played. New Zealand scored 241/8, and England were all out for 241, tied. The match went to a Super Over (the first-ever in a World Cup final). England scored 15 in their Super Over; New Zealand also scored 15, resulting in a tied Super Over. England were declared winners on a boundary countback rule (England hit more boundaries in the match — 26 to NZ's 17). Ben Stokes was the hero, scoring 84* including a controversial moment when a throw from the deep deflected off his bat for 4 overthrows. The boundary countback rule was later scrapped by the ICC due to widespread criticism that the result was unfair to New Zealand."
+  },
+  {
+    "id": "moments-004",
+    "category": "moments",
+    "title": "Bodyline Series 1932-33",
+    "content": "The Bodyline series of 1932-33 was one of the most controversial in cricket history. England captain Douglas Jardine devised a strategy called 'leg theory' (dubbed 'Bodyline' by the Australian media) specifically to counter Don Bradman's batting dominance. Fast bowler Harold Larwood bowled short-pitched deliveries aimed at the batsman's body with a packed leg-side field, making batting extremely dangerous. The strategy worked — Bradman's average dropped to 56.57 (still exceptional, but well below his career average of 99.94). The series caused a diplomatic incident between England and Australia, with the Australian Cricket Board cabling the MCC accusing them of being unsportsmanlike. The controversy led to changes in the Laws of Cricket regarding intimidatory bowling."
+  },
+  {
+    "id": "moments-005",
+    "category": "moments",
+    "title": "India's 2001 Test Victory vs Australia at Eden Gardens",
+    "content": "The 2001 Kolkata Test between India and Australia is considered one of the greatest Test matches ever played. Australia, on a 16-match winning streak, forced India to follow on after dismissing them for 171 in response to Australia's 445. India were 232/4 in the second innings, still trailing by 42 runs, when VVS Laxman (281) and Rahul Dravid (180) produced a legendary 376-run partnership. Laxman's 281 is regarded as one of the greatest Test innings ever. India declared at 657/7 and then bowled Australia out for 212, with Harbhajan Singh taking match figures of 13 wickets. India won by 171 runs. It was only the third time in Test history that a team won after being forced to follow on, and it ended Australia's record winning streak."
+  },
+  {
+    "id": "moments-006",
+    "category": "moments",
+    "title": "Shane Warne's Ball of the Century (1993)",
+    "content": "On June 4, 1993, at Old Trafford, Manchester, Shane Warne bowled what is universally known as the 'Ball of the Century' — his very first delivery in Ashes cricket. Bowling to England's Mike Gatting, Warne delivered a leg-break that pitched outside leg stump, drifted in, then spun sharply past Gatting's forward defensive stroke to clip the top of off stump. Gatting stood in disbelief, looking at the pitch as if it had betrayed him. The ball was so extraordinary that it seemed to defy physics — spinning nearly two feet from leg to off. It announced Warne's arrival on the international stage and is still considered the single greatest delivery in cricket history. It redefined what was possible with leg-spin bowling."
+  },
+  {
+    "id": "moments-007",
+    "category": "moments",
+    "title": "Carlos Brathwaite - 4 Sixes in T20 WC Final 2016",
+    "content": "In the 2016 ICC T20 World Cup final at Eden Gardens, Kolkata, West Indies needed 19 runs off the last over against England, bowled by Ben Stokes. Carlos Brathwaite, a relatively unknown all-rounder, smashed four consecutive sixes to win the World Cup for the West Indies. The commentary by Ian Bishop — 'Carlos Brathwaite! Remember the name!' — became one of cricket's most iconic calls. Marlon Samuels scored an unbeaten 85 to set up the chase, but it was Brathwaite's explosive 34* off 10 balls that sealed one of the most dramatic finishes in cricket history. West Indies became the only team to win the T20 World Cup twice."
+  },
+  {
+    "id": "moments-008",
+    "category": "moments",
+    "title": "Sachin Tendulkar's 200 in ODIs",
+    "content": "On February 24, 2010, Sachin Tendulkar became the first cricketer in history to score a double century (200 not out) in One Day International cricket. Playing against South Africa at Gwalior, Tendulkar scored 200* off 147 balls, including 25 fours and 3 sixes, as India posted 401/3. The achievement was considered almost impossible in ODIs, where time pressure and the need for rotation make sustained big scoring extremely rare. Virender Sehwag (67 off 51) and his opening partnership provided a platform, but Tendulkar accelerated brilliantly in the last 20 overs. The record was later surpassed with higher scores by Rohit Sharma (264 vs Sri Lanka, 2014), but Tendulkar's 200 remains special as the first-ever."
+  },
+  {
+    "id": "moments-009",
+    "category": "moments",
+    "title": "Rohit Sharma's 264 - Highest ODI Score",
+    "content": "On November 13, 2014, Rohit Sharma scored 264 runs against Sri Lanka in an ODI at Eden Gardens, Kolkata — the highest individual score in ODI history. His innings included 33 fours and 9 sixes off 173 balls. Remarkably, this was Rohit's third ODI double century (after 209 vs Australia in 2013 and 208* vs Sri Lanka in 2017, which came later). No other batsman has scored even two ODI double centuries. Rohit was known as 'Hitman' for his ability to play exceptionally long, destructive innings once set. India scored 404/5 in that match and won by 153 runs. Rohit's three double centuries in ODIs is one of cricket's most remarkable records."
+  },
+  {
+    "id": "moments-010",
+    "category": "moments",
+    "title": "India's 2024 T20 World Cup Victory",
+    "content": "India won the 2024 ICC T20 World Cup on June 29, 2024, in Barbados, beating South Africa in a thrilling final. South Africa needed 30 off 30 balls with 5 wickets in hand and seemed to be cruising, but India's bowlers, led by Jasprit Bumrah and Hardik Pandya, pulled off an incredible comeback. India won by 7 runs. Virat Kohli scored 76 off 59 balls in the final and announced his retirement from T20 internationals after the match. Rohit Sharma captained India, and this victory ended India's 11-year ICC trophy drought since the 2013 Champions Trophy. Jasprit Bumrah was named Player of the Tournament for his outstanding bowling throughout."
+  },
+  {
+    "id": "moments-011",
+    "category": "moments",
+    "title": "The Tied Test - Australia vs West Indies 1960",
+    "content": "The first Test match between Australia and West Indies at Brisbane in 1960 produced cricket's first-ever tied result — not a draw, but an actual tie where scores were level and all wickets had fallen. In a dramatic final over, the last three Australian wickets fell with the scores level, resulting in the first tie in 83 years of Test cricket. Only two Test matches have ever been tied — this 1960 match and the India vs Australia match in Madras (Chennai) in 1986. The 1960 Tied Test is considered one of the greatest Test matches ever played and marked the beginning of a golden era for Australia-West Indies cricket rivalry."
+  },
+  {
+    "id": "moments-012",
+    "category": "moments",
+    "title": "Kapil Dev's 175 Not Out vs Zimbabwe - 1983 World Cup",
+    "content": "In the 1983 Cricket World Cup group stage, India were in deep trouble at 17/5 against Zimbabwe at Tunbridge Wells, England. Captain Kapil Dev then played one of the greatest innings in cricket history — 175 not out off 138 balls (including 16 fours and 6 sixes), single-handedly rescuing India from humiliation. Tragically, the BBC was on strike that day, so no television footage of this legendary innings exists. India recovered to score 266/8 and won the match. This innings is often cited as the turning point of the 1983 World Cup campaign, as India went on to win the tournament. Without Kapil's rescue act, India would have been eliminated in the group stage."
+  },
+  {
+    "id": "players-013",
+    "category": "players",
+    "title": "Rohit Sharma - The Hitman",
+    "content": "Rohit Gurunath Sharma (born April 30, 1987) is one of India's greatest white-ball cricketers and the only player to score three double centuries in ODI cricket (209, 264, 208*). He captained Mumbai Indians to 5 IPL titles and later captained India in all formats. Key stats: Over 10,000 ODI runs with 31+ centuries; 4,000+ Test runs with multiple centuries; 4,000+ T20I runs — the highest in T20I history. Known as the 'Hitman' for his elegant yet destructive batting style, Rohit is particularly dangerous once set, with an ability to convert big scores into massive ones. His pull shot is considered one of the best in world cricket. He led India to the 2024 T20 World Cup victory."
+  },
+  {
+    "id": "players-014",
+    "category": "players",
+    "title": "Steve Smith - Modern Test Great",
+    "content": "Steven Peter Devereux Smith (born June 2, 1989) is one of the greatest Test batsmen of the modern era. Initially a leg-spinner who batted in the lower order, Smith transformed into a run machine with unconventional technique but remarkable consistency. Key stats: Over 9,000 Test runs at an average of 58+; 30+ Test centuries. He is particularly devastating in Ashes cricket — in the 2019 Ashes, he scored 774 runs in 4 Tests at an average of 110.57 with 3 centuries, including scores of 144, 142, and 211. Smith's batting technique, involving exaggerated movements and unique shuffle across the crease, has been analyzed extensively. He was ranked No.1 Test batsman for long periods and is compared to Bradman for his insatiable hunger for runs."
+  },
+  {
+    "id": "players-015",
+    "category": "players",
+    "title": "Rashid Khan - T20 Spin Sensation",
+    "content": "Rashid Khan (born September 20, 1998) is an Afghan leg-spin bowler who became one of the most sought-after T20 cricketers in the world. Making his international debut at 17, he quickly became the No.1 ranked T20I bowler. Key stats: 130+ T20I wickets (one of the highest); excellent ODI and Test records for Afghanistan. Rashid bowls with a quick, skiddy action that makes his googly extremely difficult to pick. He has played in virtually every major T20 league in the world — IPL (Gujarat Titans, then Sunrisers Hyderabad), BBL, PSL, CPL, SA20, and The Hundred. His economy rate in T20s is remarkably low, often under 6.5 runs per over. He also captained Afghanistan and played a crucial role in their cricket development."
+  },
+  {
+    "id": "players-016",
+    "category": "players",
+    "title": "Glenn McGrath - The Metronome",
+    "content": "Glenn Donald McGrath (born February 9, 1970) is one of the greatest fast bowlers in cricket history, known for his metronomic accuracy and ability to consistently hit the 'corridor of uncertainty' outside off stump. Key stats: 563 Test wickets at an average of 21.64 (the best strike rate among fast bowlers with 500+ wickets); 381 ODI wickets. McGrath was instrumental in Australia's dominance during the late 1990s and 2000s, taking 8/24 at Lord's in 1997 (one of the greatest spells ever). He was a World Cup specialist — leading wicket-taker in 3 consecutive World Cups (1999, 2003, 2007) with 26, 26, and 26 wickets respectively. His bowling lineup partnership with Brett Lee and Jason Gillespie was formidable."
+  },
+  {
+    "id": "players-017",
+    "category": "players",
+    "title": "Kumar Sangakkara - Sri Lankan Legend",
+    "content": "Kumar Chokshanada Sangakkara (born October 27, 1977) is one of the most elegant batsmen in cricket history and Sri Lanka's all-time leading run-scorer. A left-handed wicketkeeper-batsman, he was known for his classical technique, graceful stroke play, and incredible consistency. Key stats: 12,400 Test runs at 57.40 (11th highest of all time); 14,234 ODI runs at 41.98; scored 4 consecutive ODI centuries in the 2015 World Cup (a record); 63 international centuries. Sangakkara was also admired for his intellect and oratory — his famous 2011 MCC Spirit of Cricket Colin Cowdrey Lecture addressed the complexities of cricket, war, and identity in Sri Lanka. He served as MCC President in 2019."
+  },
+  {
+    "id": "players-018",
+    "category": "players",
+    "title": "Rahul Dravid - The Wall",
+    "content": "Rahul Sharad Dravid (born January 11, 1973) is one of India's greatest Test batsmen, nicknamed 'The Wall' for his impenetrable defense and ability to bat for long periods. Key stats: 13,288 Test runs at 52.31 (24th highest of all time); 36 Test centuries; 10,889 ODI runs; held the record for the most balls faced in Test cricket (31,258). Dravid is the only batsman to score centuries in all 10 Test-playing nations. His partnership with VVS Laxman at Eden Gardens in 2001 (376 runs) is one of the greatest in Test history. He was known for his impeccable technique against both pace and spin, and was rarely unsettled by any bowling attack. After retirement, he became India's head coach from 2021 to 2024, guiding India to the 2023 World Cup final and the 2024 T20 World Cup victory."
+  },
+  {
+    "id": "rules-011",
+    "category": "rules",
+    "title": "Impact Player Rule in IPL",
+    "content": "The Impact Player rule, introduced in IPL 2023, allows teams to substitute one player from their playing XI during the match. Each team can nominate 4 impact player options before the toss, and one can be substituted in at the fall of a wicket or at the end of an over. The tactical element allows teams to bring in a specialist batsman or bowler based on match conditions. For example, if a team is chasing a big total, they might replace a bowler with an extra batsman. Critics argue it reduces the value of all-rounders and makes T20 cricket more one-dimensional, while supporters say it adds tactical depth. The rule is unique to the IPL and has not been adopted by other leagues or international cricket."
+  },
+  {
+    "id": "rules-012",
+    "category": "rules",
+    "title": "Super Over Rules in Cricket",
+    "content": "A Super Over is a tiebreaker used in limited-overs cricket when the main match ends in a tie. Each team faces one over (6 balls) bowled by the opposition. The team scoring the most runs in their Super Over wins. If the Super Over is also tied, the winner is determined based on: in earlier rules, a boundary countback (later scrapped); now, repeated Super Overs until a result is achieved. Super Over rules: only 3 batsmen can bat per team; the same bowler cannot bowl consecutive Super Overs. Famous Super Overs include the 2019 World Cup final (England vs NZ), the 2020 IPL between Mumbai Indians and Royal Challengers Bangalore, and multiple T20I matches."
+  },
+  {
+    "id": "terms-012",
+    "category": "terms",
+    "title": "Net Run Rate (NRR)",
+    "content": "Net Run Rate (NRR) is the method used to rank teams in cricket tournaments when they finish on equal points. It is calculated as: (Total runs scored / Total overs faced) minus (Total runs conceded / Total overs bowled). A positive NRR means a team is scoring faster than their opponents, while a negative NRR means the opposite. NRR is crucial in World Cup group stages and IPL league phases, where teams on equal points are separated by NRR. Teams can manipulate NRR by winning by large margins or bowling teams out quickly. It has been the subject of controversy when teams have been eliminated purely on NRR despite having the same number of wins."
+  },
+  {
+    "id": "terms-013",
+    "category": "terms",
+    "title": "Mankading (Run-Out at Non-Striker's End)",
+    "content": "Mankading refers to a non-striker being run out by the bowler for leaving the crease before the ball is delivered. Named after Indian cricketer Vinoo Mankad, who ran out Australia's Bill Brown in this manner in 1947. The practice was controversial for decades but the ICC changed the rules in 2022, moving it from 'unfair play' to the regular 'run out' section, legitimizing it as a standard dismissal. The new rule (Law 41.16) allows the bowler to attempt the run-out until the point of delivery. Famous incidents include Ravichandran Ashwin Mankading Jos Buttler in IPL 2019. The spirit of cricket debate around Mankading has evolved, with most modern players and administrators accepting it as fair play."
+  },
+  {
+    "id": "moments-013",
+    "category": "moments",
+    "title": "Australia's World Cup Dominance (1999-2007)",
+    "content": "Australia's unprecedented dominance in World Cup cricket from 1999 to 2007 included winning three consecutive tournaments and going on a record 34-match unbeaten streak in World Cup matches. In 1999, Australia beat Pakistan in the final at Lord's. In 2003, they went unbeaten throughout the tournament in South Africa, crushing India in the final. In 2007, they again went unbeaten in the West Indies. Key players included Ricky Ponting (captain from 2003), Adam Gilchrist (scored 149 off 104 balls in the 2007 final), Glenn McGrath (all-time leading World Cup wicket-taker with 71 wickets), and Matthew Hayden. This era of Australian cricket is considered the most dominant period by any team in cricket history."
+  },
+  {
+    "id": "moments-014",
+    "category": "moments",
+    "title": "Pakistan's 1992 World Cup Triumph",
+    "content": "Pakistan's 1992 Cricket World Cup victory in Australia remains one of the tournament's greatest stories. Led by the charismatic Imran Khan, Pakistan started the tournament poorly, losing several early matches and being on the verge of elimination. Imran Khan's famous rallying cry — comparing his team to a 'cornered tiger' — transformed their campaign. They won their remaining group matches, beat New Zealand in the semi-final, and then defeated England in the final at the MCG. Wasim Akram was devastating in the final with 3/49 and two crucial wickets in one over. Imran Khan lifted the trophy and later used the prize money to fund the Shaukat Khanum Memorial Cancer Hospital in Pakistan."
+  },
+  {
+    "id": "players-019",
+    "category": "players",
+    "title": "Ricky Ponting - Captain of the Invincibles",
+    "content": "Ricky Thomas Ponting (born December 19, 1974) is one of Australia's greatest batsmen and most successful captains. He led Australia during their most dominant era, captaining them to two World Cup victories (2003, 2007). Key stats: 13,378 Test runs at 51.85 (41 centuries) — third highest in Test history; 13,704 ODI runs at 42.03 (30 centuries). As captain, Ponting won 48 of his 77 Tests — the highest win percentage among captains with 50+ Tests. He was a brilliant fielder, particularly at cover. Known for his pull shot and aggressive batting, Ponting held the record for most international centuries (71) before Tendulkar overtook him. His 140* in the 2003 World Cup final is one of the great World Cup innings."
+  },
+  {
+    "id": "players-020",
+    "category": "players",
+    "title": "Anil Kumble - India's Highest Test Wicket-Taker",
+    "content": "Anil Kumble (born October 17, 1970) is India's greatest spin bowler and highest Test wicket-taker. A leg-spin bowler who relied more on accuracy, bounce, and variations rather than big turn, Kumble was incredibly effective on Indian pitches. Key stats: 619 Test wickets at 29.65 (third highest in Test history); 337 ODI wickets. His greatest feat was taking 10 wickets in a single Test innings (10/74) against Pakistan at Delhi in 1999 — only the second instance in Test history after Jim Laker's 10/53 in 1956. Kumble was known for his fierce competitiveness and once bowled with a broken jaw against the West Indies. He finished with 953 international wickets across all formats."
+  },
+  {
+    "id": "terms-014",
+    "category": "terms",
+    "title": "Cricket Ball - Red, White, and Pink",
+    "content": "Cricket uses different colored balls depending on the format. The red ball (Kookaburra, Dukes, or SG) is used in Test cricket and is designed to last 80+ overs. The Dukes ball (used in England) swings more; the Kookaburra (Australia, South Africa) offers less swing but more bounce; the SG ball (India) is harder and offers more seam movement. The white ball is used in limited-overs cricket (ODIs, T20s) for visibility under floodlights, but it deteriorates faster than the red ball. Two white balls are used per ODI innings (one from each end) to maintain condition. The pink ball was introduced for day-night Test matches, designed to be visible under floodlights while maintaining the properties of a red ball. The first pink ball Test was played between Australia and New Zealand in 2015."
+  },
+  {
+    "id": "terms-015",
+    "category": "terms",
+    "title": "Cricket Umpire Signals",
+    "content": "Cricket umpires use standardized hand signals to communicate decisions: Out — raising the index finger above the head; Not Out — no signal needed (batsman stays); Four — waving an arm side to side; Six — raising both arms above the head; Wide — extending both arms horizontally; No Ball — extending one arm horizontally; Bye — raising an open palm; Leg Bye — touching the raised knee; Dead Ball — crossing and uncrossing wrists below the waist; New Ball — holding the ball above the head; DRS Review — making a 'TV' shape with both hands; Short Run — tapping the shoulder. The third umpire uses television replays for run-outs, stumpings, boundary calls, and catches, communicating decisions through on-screen graphics."
+  },
+  {
+    "id": "moments-015",
+    "category": "moments",
+    "title": "England's Bazball Revolution (2022-Present)",
+    "content": "Bazball is the aggressive, positive approach to Test cricket adopted by England under captain Ben Stokes and coach Brendon McCullum (nicknamed 'Baz') starting in 2022. The philosophy emphasizes attacking batting, positive intent, and taking the game to the opposition regardless of the match situation. Results were dramatic: England won 11 of their first 14 Tests under this approach, including chasing 378 against India, 299 against New Zealand, and 296 against Australia. Bazball brought in record run rates in Test cricket, with England scoring at 4.5+ runs per over in many innings. Critics argue it fails against top-quality bowling attacks (as seen in India's series wins against England), but supporters credit it with making Test cricket exciting and attracting new fans."
+  },
+  {
+    "id": "players-021",
+    "category": "players",
+    "title": "Lasith Malinga - The Slinga from Sri Lanka",
+    "content": "Separamadu Lasith Malinga (born August 28, 1983) is famous for his unique round-arm (sling) bowling action, which made his yorkers and slower balls extraordinarily difficult to play. Key achievements: Only bowler to take 4 wickets in 4 consecutive balls in international cricket (vs South Africa, 2007 World Cup); 338 ODI wickets; Most wickets in T20I history (107); Most wickets in IPL history (170 for Mumbai Indians). Malinga's round-arm action generated steep bounce from a good length and his variations — slower ball, slower bouncer, and yorker — were devastating at the death. He was instrumental in Mumbai Indians winning 4 of their 5 IPL titles and was called 'Malinga the Slinga' for his distinctive style."
+  },
+  {
+    "id": "rules-013",
+    "category": "rules",
+    "title": "Follow-On Rule in Test Cricket",
+    "content": "The follow-on is a rule in Test cricket that allows the team batting first to enforce the team batting second to bat again immediately (back-to-back innings) if the second team's first innings total falls short by a specified margin. The deficit thresholds are: 200 runs in a 5-day Test; 150 runs in a 3-4 day Test; 100 runs in a 2-day Test; 75 runs in a 1-day Test. The team batting first can choose to enforce or decline the follow-on. Enforcing it risks the opposition playing better in their second innings with a worn pitch benefiting their spin bowlers. Famous instances of teams winning after being forced to follow on include India vs Australia (2001 Kolkata Test) and England vs Australia (1981 Headingley Test)."
+  },
+  {
+    "id": "rules-014",
+    "category": "rules",
+    "title": "Rain Rules and Bad Light in Cricket",
+    "content": "Rain and bad light can significantly impact cricket matches. In Test cricket, lost overs can be made up on subsequent days (extra 30 minutes added). If weather prevents a result, the match is declared a draw regardless of the match situation. In limited-overs cricket, the DLS method adjusts targets for rain-interrupted matches. A minimum of 20 overs per side is needed for a valid result in ODIs, and 5 overs per side in T20s. Bad light offers are made by umpires when visibility becomes dangerous, particularly against fast bowling. Players can choose to stay on if they wish, but umpires have the final say on safety. Floodlights have reduced bad light stoppages in modern cricket, and day-night Tests use pink balls to address visibility issues."
+  },
+  {
+    "id": "tournaments-008",
+    "category": "tournaments",
+    "title": "Border-Gavaskar Trophy",
+    "content": "The Border-Gavaskar Trophy is a Test cricket series played between India and Australia, named after two legends: Allan Border (Australia) and Sunil Gavaskar (India). It has been contested since 1996 and has produced some of the most memorable Test cricket. Key series: 2001 — India won 2-1 (featuring the iconic Kolkata Test where India won after following on); 2004 — India won in Australia for the first time in 20 years; 2017 — India won 2-1; 2018-19 — India won 2-1 in Australia (first Asian team to win a Test series in Australia); 2020-21 — India won 2-1 despite injuries (the Gabba breakthrough). India held the trophy from 2017 to 2025, winning four consecutive series. The rivalry is considered the most intense in modern Test cricket."
+  },
+  {
+    "id": "moments-016",
+    "category": "moments",
+    "title": "India's Gabba Breach (2021)",
+    "content": "India's victory at the Gabba (Brisbane) in January 2021 is one of the most remarkable achievements in Test cricket history. Australia had not lost at the Gabba in 32 years (since 1988). India, ravaged by injuries (missing Kohli, Bumrah, Shami, Ashwin, Jadeja, and others at various times), fielded a makeshift lineup including debutants Shubman Gill, Washington Sundar, T Natarajan, and Mohammed Siraj. Needing 328 to win on the final day, India's young team chased it down with 3 wickets and 3 overs to spare. Rishabh Pant scored a brilliant 89* off 138 balls to seal the victory. This win secured the Border-Gavaskar Trophy 2-1 for India and is celebrated as one of cricket's greatest underdog stories."
+  },
+  {
+    "id": "players-022",
+    "category": "players",
+    "title": "Sunil Gavaskar - The Original Little Master",
+    "content": "Sunil Manohar Gavaskar (born July 10, 1949) was India's first truly great batsman and the first player to score 10,000 Test runs. He was nicknamed 'The Little Master' for his compact technique despite his short stature. Key stats: 10,122 Test runs at average 51.12; 34 Test centuries (a record that stood for 20 years until Tendulkar broke it); 774 runs in his debut Test series against the West Indies in 1971 (including 4 centuries). Gavaskar was a master against fast bowling and famously stood up to the fearsome West Indian pace attacks of the 1970s and 80s without a helmet. He scored centuries in both innings of a Test match 3 times. Post-retirement, he has been one of cricket's most respected commentators."
+  },
+  {
+    "id": "terms-016",
+    "category": "terms",
+    "title": "Night Watchman in Cricket",
+    "content": "A night watchman is a lower-order batsman (usually a bowler) sent to bat ahead of a higher-order batsman when a wicket falls close to the end of a day's play in Test cricket. The strategy protects the more skilled batsman from having to bat in difficult late-evening conditions (poor light, tired bowlers bowling aggressively). The night watchman's job is simply to survive until the next day's play, when the recognized batsman can resume in better conditions. Famous night watchman innings include Jason Gillespie scoring 201* for Australia vs Bangladesh in 2006, and Naseem Shah surviving as night watchman for Pakistan. The strategy is sometimes controversial — some coaches believe the best batsmen should always bat regardless of conditions."
+  },
+  {
+    "id": "terms-017",
+    "category": "terms",
+    "title": "Hat-trick in Cricket",
+    "content": "A hat-trick in cricket occurs when a bowler takes three wickets with three consecutive deliveries. The three balls do not need to be in the same over — the third ball can be the first ball of the bowler's next over, or even in a different match if it's the first ball of a new innings. Famous hat-tricks: Wasim Akram took two hat-tricks in Test cricket; Lasith Malinga took 4 wickets in 4 balls against South Africa (2007); Jimmy Matthews took a hat-trick in each innings of the same Test (the only instance in Test history); Irfan Pathan took a hat-trick in the first over of a Test (vs Pakistan, 2006). The term 'hat-trick' originated in cricket in the 1850s."
+  },
+  {
+    "id": "moments-017",
+    "category": "moments",
+    "title": "Ben Stokes' Headingley Miracle (2019 Ashes)",
+    "content": "In the third Ashes Test at Headingley in 2019, England were 286/9 in their second innings, needing 203 runs to win with only one wicket remaining. Ben Stokes, playing one of the greatest innings in Test history, scored an unbeaten 135* off 219 balls, hitting 11 fours and 8 sixes. With last man Jack Leach (who scored 1* off 17 balls) as his partner, Stokes produced an extraordinary assault on the Australian bowling to win the match for England by 1 wicket. It was the highest successful fourth-innings chase at Headingley and one of the greatest comebacks in cricket history. Stokes' innings is often compared to Ian Botham's legendary 149* at the same ground in the 1981 Ashes."
+  },
+  {
+    "id": "tournaments-009",
+    "category": "tournaments",
+    "title": "Women's Cricket - Rise and Major Tournaments",
+    "content": "Women's cricket has experienced tremendous growth in the 21st century. The ICC Women's Cricket World Cup has been held since 1973 — two years before the men's tournament. Australia dominates with 7 World Cup titles. The ICC Women's T20 World Cup started in 2009, with Australia again the most successful team. Key milestones: the 2017 Women's World Cup final at Lord's (England beat India by 9 runs) attracted record crowds; the 2020 Women's T20 World Cup final in Melbourne drew 86,174 spectators; the WBBL (Women's Big Bash League) and WPL (Women's Premier League in India, launched 2023) have professionalized the women's game. Stars include Ellyse Perry, Smriti Mandhana, Meg Lanning, Harmanpreet Kaur, and Sophie Devine."
+  },
+  {
+    "id": "players-023",
+    "category": "players",
+    "title": "Smriti Mandhana - Star of Women's Cricket",
+    "content": "Smriti Shriniwas Mandhana (born July 18, 1996) is one of the most exciting batters in women's cricket. The Indian left-hander is known for her elegant stroke-play and aggressive batting style. Key stats: 3,000+ ODI runs with multiple centuries; 2,500+ T20I runs; multiple ICC Women's Cricketer of the Year awards. Mandhana became the fastest Indian woman to score 2,000 ODI runs. She plays in the WPL for Royal Challengers Bangalore and has featured in overseas leagues including the WBBL and The Hundred. Her cover drive is considered one of the most aesthetically pleasing shots in women's cricket. She has been a key figure in India's push to become a dominant force in women's cricket."
+  },
+  {
+    "id": "terms-018",
+    "category": "terms",
+    "title": "All-Rounder Classifications",
+    "content": "An all-rounder in cricket is a player who contributes significantly with both bat and ball. All-rounders are classified as: Batting all-rounder — a batsman who can bowl useful overs (e.g., Jacques Kallis, Joe Root); Bowling all-rounder — a bowler who can bat competently (e.g., Kapil Dev, Stuart Broad); Genuine all-rounder — equally skilled at both (e.g., Ben Stokes, Keith Miller, Garfield Sobers). Greatest all-rounders in cricket history include: Sir Garfield Sobers (West Indies) — considered the greatest all-rounder; Jacques Kallis (South Africa) — 13,289 Test runs and 292 wickets; Kapil Dev (India) — 5,248 Test runs and 434 wickets; Imran Khan (Pakistan) — 3,807 runs and 362 Test wickets; Ben Stokes (England) — match-winning performances with bat and ball."
+  },
+  {
+    "id": "rules-015",
+    "category": "rules",
+    "title": "Cricket Scoring - Extras and Sundries",
+    "content": "Extras (called sundries in Australia) are runs scored that are not attributed to a batsman. Types include: Byes — ball passes the batsman and wicketkeeper without touching anything, and batsmen run; Leg Byes — ball hits the batsman's body (not the glove) and batsmen run; Wides — ball too far from the batsman, 1 run automatically added; No-Balls — illegal delivery, 1 run added plus any runs scored off the bat or run; Penalty Runs — 5 runs awarded for breaches of the Laws (e.g., ball hitting a helmet placed behind the wicketkeeper). Extras can significantly impact a match — some teams have conceded over 30 extras in an innings. In Test cricket, the average extras per innings is approximately 20-25 runs."
+  }
+]
