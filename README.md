@@ -10,14 +10,14 @@ Cricket is a sport with incredibly deep history, complex rules, and passionate f
 
 ## Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| **Framework** | Next.js 16 (App Router, TypeScript) |
-| **Styling** | Tailwind CSS 4 |
-| **LLM** | Google Gemini 2.0 Flash (free tier) |
-| **AI SDK** | Vercel AI SDK v6 (`ai` + `@ai-sdk/react`) |
-| **RAG** | In-memory cosine similarity over pre-computed Gemini embeddings |
-| **Deployment** | Vercel |
+| Layer          | Technology                                                      |
+| -------------- | --------------------------------------------------------------- |
+| **Framework**  | Next.js 16 (App Router, TypeScript)                             |
+| **Styling**    | Tailwind CSS 4                                                  |
+| **LLM**        | Google Gemini 2.0 Flash (free tier)                             |
+| **AI SDK**     | Vercel AI SDK v6 (`ai` + `@ai-sdk/react`)                       |
+| **RAG**        | In-memory cosine similarity over pre-computed Gemini embeddings |
+| **Deployment** | Vercel                                                          |
 
 ## Architecture
 
@@ -118,8 +118,9 @@ scripts/
 
 ## Deployed Link
 
-**Live**: [https://cricbot.vercel.app](https://cricbot.vercel.app)
+**Live**: [Vercel](https://cricbot-eight.vercel.app/)
 
 ## License
 
 MIT
+
